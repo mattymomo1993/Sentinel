@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="LICENSE"><img alt="License: Apache-2.0" src="https://img.shields.io/github/license/mattymomo1993/Sentinel?color=22d3ee"></a>
-  <img alt="Language: C" src="https://img.shields.io/github/languages/top/mattymomo1993/Sentinel?color=34d399">
-  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/mattymomo1993/Sentinel?color=5b7a99">
-  <a href="https://github.com/mattymomo1993/Sentinel/releases"><img alt="Release" src="https://img.shields.io/github/v/release/mattymomo1993/Sentinel?color=22d3ee"></a>
+  <a href="LICENSE"><img alt="License: Apache-2.0" src="https://img.shields.io/github/license/mattmorris-dev/Sentinel?color=22d3ee"></a>
+  <img alt="Language: C" src="https://img.shields.io/github/languages/top/mattmorris-dev/Sentinel?color=34d399">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/mattmorris-dev/Sentinel?color=5b7a99">
+  <a href="https://github.com/mattmorris-dev/Sentinel/releases"><img alt="Release" src="https://img.shields.io/github/v/release/mattmorris-dev/Sentinel?color=22d3ee"></a>
   <img alt="No dependencies" src="https://img.shields.io/badge/dependencies-none-34d399">
   <img alt="100% local" src="https://img.shields.io/badge/cloud-none%20·%20100%25%20local-22d3ee">
   <br>
-  <a href="https://github.com/mattymomo1993/Sentinel/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/mattymomo1993/Sentinel?style=social"></a>
-  <a href="https://github.com/mattymomo1993/Sentinel/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/mattymomo1993/Sentinel?style=social"></a>
-  <a href="https://github.com/mattymomo1993/Sentinel/issues"><img alt="Issues" src="https://img.shields.io/github/issues/mattymomo1993/Sentinel?style=social&logo=github"></a>
+  <a href="https://github.com/mattmorris-dev/Sentinel/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/mattmorris-dev/Sentinel?style=social"></a>
+  <a href="https://github.com/mattmorris-dev/Sentinel/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/mattmorris-dev/Sentinel?style=social"></a>
+  <a href="https://github.com/mattmorris-dev/Sentinel/issues"><img alt="Issues" src="https://img.shields.io/github/issues/mattmorris-dev/Sentinel?style=social&logo=github"></a>
 </p>
 
 # Sentinel — your security analyst that never leaves the box
@@ -25,7 +25,7 @@ questions from real data, and spawns its own sub-agents to do the work — entir
 your machine.
 
 ```sh
-git clone https://github.com/mattymomo1993/Sentinel && cd Sentinel
+git clone https://github.com/mattmorris-dev/Sentinel && cd Sentinel
 make && ./start.sh
 ```
 

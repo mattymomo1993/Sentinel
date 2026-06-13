@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" width="640" height="340" font-family="ui-monospace,Menlo,Consolas,monospace">
+  <rect width="640" height="340" rx="10" fill="#0a0f1f"/>
+  <rect width="640" height="28" rx="10" fill="#11192c"/>
+  <circle cx="18" cy="14" r="5" fill="#ff5f56"/><circle cx="36" cy="14" r="5" fill="#ffbd2e"/><circle cx="54" cy="14" r="5" fill="#27c93f"/>
+  <text x="320" y="18" fill="#5b7a99" font-size="11" text-anchor="middle">sentinel --tui</text>
+  <g font-size="12.5">
+    <text x="16" y="58" fill="#22d3ee">╔══════════════════════════════════════════════════╗</text>
+    <text x="16" y="74" fill="#22d3ee">║  ◆  S E N T I N E L  ·  local deep-GRU AI agent   ║</text>
+    <text x="16" y="90" fill="#22d3ee">╚══════════════════════════════════════════════════╝</text>
+    <text x="16" y="110" fill="#5b7a99">58,064,768 params · Adam · fork-spawned agents · 100% local</text>
+    <text x="16" y="140" fill="#34d399"> sentinel ❯ </text><text x="104" y="140" fill="#e6f6ff">show me a cve about log4j</text>
+    <text x="16" y="160" fill="#90a4b8">  ▸ retrieval agent · topic=cve</text>
+    <text x="16" y="178" fill="#cfe8ff">  === CVE-2021-44228 (Log4Shell) ===</text>
+    <text x="16" y="196" fill="#cfe8ff">  Apache Log4j2 JNDI lookup → remote code execution.</text>
+    <text x="16" y="224" fill="#34d399"> sentinel ❯ </text><text x="104" y="224" fill="#e6f6ff">FANOUT: 100 scan local ports</text>
+    <text x="16" y="244" fill="#90a4b8">  [fan-out] 100 concurrent sub-agents (tier=light) …</text>
+    <text x="16" y="262" fill="#90a4b8">  · agent pid=2647 tier=light (exit 0)   ·  ×100</text>
+    <text x="16" y="280" fill="#90a4b8">  [fan-out] 100 sub-agents completed.</text>
+    <text x="16" y="308" fill="#34d399"> sentinel ❯ </text><text x="104" y="308" fill="#22d3ee">▌</text>
+  </g>
+</svg>
